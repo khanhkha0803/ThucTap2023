@@ -40,6 +40,7 @@
                                 $discount = 0; // không giảm giá
                             }
                             $shipping = 30000;
+                            
                             $discount_amount = $tong * $discount;
                             $total = $tong + $shipping - $discount_amount;
                           ?>

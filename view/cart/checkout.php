@@ -120,4 +120,5 @@
         </div>
     </form>
   </div>
+      <!-- Checkout End -->
     <!-- Checkout End -->
